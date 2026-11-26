@@ -1,0 +1,1 @@
+import{n as e}from"./submit.DbdtsV_x.js";var t=window;t.evkLead=n=>{let r=t.CAR?.name||document.querySelector(`h1`)?.textContent?.trim()||``,i=`Карточка ${r}: ${n.form}${n.text?` – `+n.text:``}`.slice(0,300),a=document.querySelector(`.evk`)?.dataset.brand||r.split(` `)[0];return e({name:n.name||``,phone:n.phone,source:i,consent:!0,car:r,brand:a})};

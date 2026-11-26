@@ -1,0 +1,116 @@
+# Evolution Car
+
+> Автосалон в Минске: автомобили из Китая, Южной Кореи, США и Европы — в наличии и под заказ. 129 моделей 37 марок, из них 3 в наличии. Берём на себя подбор, покупку, доставку, таможенное оформление и документы для постановки на учёт.
+
+Компания: ООО «Тренд Экспресс Авто», УНП 193710155. Шоурум: г. Минск, проспект Машерова, 15/4. Телефон: +375 (29) 135-88-88. Часы работы: Ежедневно, 09:00 – 18:00.
+Цены указаны ориентировочно «под ключ» в долларах и белорусских рублях и не являются публичной офертой:
+итоговая стоимость зависит от курса, комплектации, состояния автомобиля и платежей на дату сделки.
+
+## Основные страницы
+
+- [Главная](https://deford2027.github.io/): о компании и условиях покупки
+- [Каталог автомобилей](https://deford2027.github.io/catalog/): все 129 моделей с ценами и характеристиками
+- [Доставка и растаможка](https://deford2027.github.io/dostavka-i-rastamozhka/): сроки, маршруты, из чего складывается цена
+- [Сервис и гарантия](https://deford2027.github.io/servis/): обслуживание после покупки, диагностика, электроника, запчасти, условия гарантии
+- [Пригнанные автомобили](https://deford2027.github.io/portfolio/): примеры выполненных поставок
+- [Отзывы](https://deford2027.github.io/rew/): отзывы покупателей
+- [Контакты](https://deford2027.github.io/contact/): адрес шоурума, телефон, часы работы
+- [О компании](https://deford2027.github.io/about/): кто мы и как работаем
+
+## Откуда возим
+
+- [Автомобили из Китая в Беларусь – в наличии и под заказ](https://deford2027.github.io/china/): Подберём новый автомобиль или автомобиль из Китая и сопроводим покупку до получения машины
+- [Автомобили из Южной Кореи в Беларусь под заказ](https://deford2027.github.io/korea/): Подберём новый автомобиль или автомобиль с пробегом и сопроводим покупку до получения машины
+- [Автомобили из Европы в Беларусь под заказ](https://deford2027.github.io/europa/): Подберём новый автомобиль или автомобиль с пробегом и сопроводим покупку до получения машины
+- [Автомобили из США в Беларусь под заказ](https://deford2027.github.io/usa/): Подберём автомобиль с аукционов и площадок США и сопроводим покупку до получения машины
+- [Авто из Японии в Беларусь под заказ](https://deford2027.github.io/japan/): Подберём автомобиль на аукционах и площадках Японии и сопроводим покупку до получения машины
+
+## Подборки каталога
+
+- [В наличии](https://deford2027.github.io/catalog/v-nalichii/): 3 автомобилей
+- [Под заказ](https://deford2027.github.io/catalog/pod-zakaz/): 20 автомобилей
+- [С пробегом](https://deford2027.github.io/catalog/s-probegom/): 26 автомобилей
+- [Электромобили](https://deford2027.github.io/catalog/elektromobili/): 49 автомобилей
+- [Гибриды](https://deford2027.github.io/catalog/gibridy/): 26 автомобилей
+- [Из Китая](https://deford2027.github.io/catalog/iz-kitaya/): 76 автомобилей
+- [Из Кореи](https://deford2027.github.io/catalog/iz-korei/): 26 автомобилей
+- [Из Европы](https://deford2027.github.io/catalog/iz-evropy/): 0 автомобилей
+- [Из США](https://deford2027.github.io/catalog/iz-ssha/): 28 автомобилей
+
+## Марки
+
+- [BYD](https://deford2027.github.io/catalog/byd/): 12 моделей
+- [Kia](https://deford2027.github.io/catalog/kia/): 11 моделей
+- [Geely](https://deford2027.github.io/catalog/geely/): 10 моделей
+- [BMW](https://deford2027.github.io/catalog/bmw/): 8 моделей
+- [Hyundai](https://deford2027.github.io/catalog/hyundai/): 6 моделей
+- [Zeekr](https://deford2027.github.io/catalog/zeekr/): 6 моделей
+- [Genesis](https://deford2027.github.io/catalog/genesis/): 5 моделей
+- [Lixiang](https://deford2027.github.io/catalog/lixiang/): 5 моделей
+- [Audi](https://deford2027.github.io/catalog/audi/): 4 моделей
+- [Changan](https://deford2027.github.io/catalog/changan/): 4 моделей
+- [Denza](https://deford2027.github.io/catalog/denza/): 4 моделей
+- [Honda](https://deford2027.github.io/catalog/honda/): 4 моделей
+- [Mercedes-Benz](https://deford2027.github.io/catalog/mercedes-benz/): 4 моделей
+- [Volkswagen](https://deford2027.github.io/catalog/volkswagen/): 4 моделей
+- [Chevrolet](https://deford2027.github.io/catalog/chevrolet/): 3 моделей
+- [Ford](https://deford2027.github.io/catalog/ford/): 3 моделей
+- [Hongqi](https://deford2027.github.io/catalog/hongqi/): 3 моделей
+- [Lynk&CO](https://deford2027.github.io/catalog/lynk-co/): 3 моделей
+- [Volvo](https://deford2027.github.io/catalog/volvo/): 3 моделей
+- [Voyah](https://deford2027.github.io/catalog/voyah/): 3 моделей
+- [Avatr](https://deford2027.github.io/catalog/avatr/): 2 моделей
+- [Deepal](https://deford2027.github.io/catalog/deepal/): 2 моделей
+- [FAW](https://deford2027.github.io/catalog/faw/): 2 моделей
+- [Nissan](https://deford2027.github.io/catalog/nissan/): 2 моделей
+- [Tesla](https://deford2027.github.io/catalog/tesla/): 2 моделей
+- [Toyota](https://deford2027.github.io/catalog/toyota/): 2 моделей
+- [Xiaomi](https://deford2027.github.io/catalog/xiaomi/): 2 моделей
+- [Aito](https://deford2027.github.io/catalog/aito/): 1 моделей
+- [Alfa Romeo](https://deford2027.github.io/catalog/alfa-romeo/): 1 моделей
+- [GAC](https://deford2027.github.io/catalog/gac/): 1 моделей
+- [GMC](https://deford2027.github.io/catalog/gmc/): 1 моделей
+- [Jetour](https://deford2027.github.io/catalog/jetour/): 1 моделей
+- [KGM](https://deford2027.github.io/catalog/kgm/): 1 моделей
+- [Leapmotor](https://deford2027.github.io/catalog/leapmotor/): 1 моделей
+- [Lotus](https://deford2027.github.io/catalog/lotus/): 1 моделей
+- [Polestar](https://deford2027.github.io/catalog/polestar/): 1 моделей
+- [Yangwang](https://deford2027.github.io/catalog/yangwang/): 1 моделей
+
+## Конфигураторы комплектаций
+
+- [Lixiang Новый L6](https://deford2027.github.io/catalog/lixiang/l6/konfigurator/): 3 цвета, 4 варианта дисков, 3 салона
+- [Lixiang Новый L8](https://deford2027.github.io/catalog/lixiang/l8/konfigurator/): 10 цветов, 5 вариантов дисков, 4 салона
+- [Lixiang Новый L9](https://deford2027.github.io/catalog/lixiang/l9/konfigurator/): 11 цветов, 4 варианта дисков, 4 салона
+- [Lixiang i8](https://deford2027.github.io/catalog/lixiang/i8/konfigurator/): 4 цвета, 2 варианта дисков, 2 салона
+- [Lixiang Новый i9](https://deford2027.github.io/catalog/lixiang/i9/konfigurator/): 8 цветов, 3 варианта дисков, 2 салона
+- [Lixiang Новый MEGA](https://deford2027.github.io/catalog/lixiang/mega/konfigurator/): 5 цветов, 3 варианта дисков, 2 салона
+- [Avatr 12](https://deford2027.github.io/catalog/avatr/12/konfigurator/): 5 цветов, 2 варианта дисков, 4 салона
+- [Voyah Dreamer 9](https://deford2027.github.io/catalog/voyah/dreamer/konfigurator/): 5 цветов, 2 варианта дисков, 2 салона
+- [Xiaomi SU7](https://deford2027.github.io/catalog/xiaomi/su7/konfigurator/): 7 цветов, 4 варианта дисков, 4 салона
+- [Xiaomi SU7 Ultra](https://deford2027.github.io/catalog/xiaomi/su7-ultra/konfigurator/): 5 цветов, 4 варианта дисков, карбон-пакет, 3 салона
+- [Xiaomi N70](https://deford2027.github.io/catalog/xiaomi/n70/konfigurator/): 6 цветов, 4 варианта дисков, 3 салона
+- [Xiaomi N90](https://deford2027.github.io/catalog/xiaomi/n90/konfigurator/): 6 цветов, 4 варианта дисков, 3 салона
+- [Xiaomi YU7](https://deford2027.github.io/catalog/xiaomi/yu7/konfigurator/): 6 цветов, 2 варианта дисков, 3 салона
+- [Zeekr 7X](https://deford2027.github.io/catalog/zeekr/7x/konfigurator/): 4 цвета, 2 версии
+- [Zeekr 9X](https://deford2027.github.io/catalog/zeekr/9x/konfigurator/): 3 версии: батарея, ассистенты и салон
+
+## Города обслуживания
+
+- [Автомобили в Минске](https://deford2027.github.io/minsk/): Минская область
+- [Автомобили в Гомеле](https://deford2027.github.io/gomel/): Гомельская область
+- [Автомобили в Витебске](https://deford2027.github.io/vitebsk/): Витебская область
+- [Автомобили в Бресте](https://deford2027.github.io/brest/): Брестская область
+- [Автомобили в Гродно](https://deford2027.github.io/grodno/): Гродненская область
+- [Автомобили в Могилёве](https://deford2027.github.io/mogilev/): Могилёвская область
+
+## Документы
+
+- [Политика конфиденциальности](https://deford2027.github.io/policy/)
+- [Согласие на обработку персональных данных](https://deford2027.github.io/agreement/)
+- [Пользовательское соглашение](https://deford2027.github.io/terms/)
+- [Юридические данные](https://deford2027.github.io/legal_data/)
+
+## Полные сведения
+
+- [Все модели с ценами и характеристиками](https://deford2027.github.io/llms-full.txt)
